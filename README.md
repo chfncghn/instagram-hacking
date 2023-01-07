@@ -29,16 +29,16 @@ apt update && apt upgrade -y
 apt install git -y
 ```
 ```bash
-git clone https://github.com/hackerxphantom/Facebook_hack.git
+git clone (https://github.com/chfncghn/instagram-hacking)
 ```
 ```bash
-cd Facebook_hack
+cd instagram_hack
 ```
 ```bash
 bash setup
 ```
 ```bash
-python facebook_hack.py
+python instagram_hack.py
 ```
 
 
