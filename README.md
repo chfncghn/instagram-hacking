@@ -8,8 +8,7 @@ hack instagram account using brute force attack
  ```bash
 Note : Tool is Made of Educational Purposes only.
        Please try not to harm anyone device 
-       it's For Fun Purpose Not For Revenge
-       (Join Us https://bit.ly/3PV3S3r)
+       it's For Fun Purpose Not For Revenge      
 ```
 ## Language is used to Make this tool
 - Python
