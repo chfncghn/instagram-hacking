@@ -1,2 +1,45 @@
 # instagram-hacking
 hack instagram account using brute force attack
+
+
+
+***
+
+ ```bash
+Note : Tool is Made of Educational Purposes only.
+       Please try not to harm anyone device 
+       it's For Fun Purpose Not For Revenge
+       (Join Us https://bit.ly/3PV3S3r)
+```
+## Language is used to Make this tool
+- Python
+  
+## The Tool is for :
+- Windows
+- Kali Linux
+- Android~Termux
+- macOs
+- any Os has python(2.x, 3.x) with required modules
+
+###### Installation
+```bash
+apt update && apt upgrade -y
+```
+```bash
+apt install git -y
+```
+```bash
+git clone https://github.com/hackerxphantom/Facebook_hack.git
+```
+```bash
+cd Facebook_hack
+```
+```bash
+bash setup
+```
+```bash
+python facebook_hack.py
+```
+
+
+
