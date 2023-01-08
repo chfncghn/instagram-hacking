@@ -28,7 +28,7 @@ apt update && apt upgrade -y
 apt install git -y
 ```
 ```bash
-git clone (https://github.com/chfncghn/instagram-hacking)
+git clone https://github.com/chfncghn/instagram-hacking
 ```
 ```bash
 cd instagram_hack
