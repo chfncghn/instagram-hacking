@@ -1,6 +1,7 @@
 #bin/python
 #codded by hacker xphantom
 
+pip install requests
 pip install mechanize
 pip install wget
 pip install instagram-py
