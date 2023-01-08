@@ -31,7 +31,7 @@ apt install git -y
 git clone https://github.com/chfncghn/instagram-hacking
 ```
 ```bash
-cd instagram_hack
+cd instagram-hacking
 ```
 ```bash
 bash setup
