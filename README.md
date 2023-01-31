@@ -39,6 +39,9 @@ bash setup
 ```bash
 python instagram_hack.py
 ```
-
+#Usage
+```bash
+python instagram_hack.py usernmae
+```
 
 
