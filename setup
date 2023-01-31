@@ -1,5 +1,5 @@
 #bin/python
-#codded by hacker xphantom
+#codded by AgentHackers
 
 pip install requests
 pip install mechanize
