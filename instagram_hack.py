@@ -117,7 +117,7 @@ class FaceBoom(object):
         if not single_passwd:
             print(gr+"""\
 ============================================"""+wi+"""
-[~] """+yl+"""Brute"""+rd+""" ForceATTACK: """+gr+"""Enabled """+wi+"""[~]"""+gr+"""
+[~] """+yl+"""Brute"""+rd+""" Force ATTACK: """+gr+"""Enabled """+wi+"""[~]"""+gr+"""
 ============================================\n"""+wi)
         else:print("\n")
 
@@ -249,7 +249,7 @@ def Main():
                     print(yl+"\n["+rd+"!"+yl+"] Sorry: "+wi+"The Password[ "+yl+passwd+wi+" ] Is Not Correct"+rd+":("+yl+"!"+wi)
                     print(gr+"["+yl+"!"+gr+"]"+yl+" Please Try Another password or Wordlist "+gr+":)"+wi)
                 else:
-                    print(yl+"\n["+rd+"!"+yl+"] Sorry: "+wi+"I Can't Find The Correct Password In [ "+yl+wordlist+wi+" ] "+rd+":("+yl+"!"+wi)
+                    print(yl+"\n["+rd+"!"+yl+"] Sorry: "+wi+"Can't Find The Correct Password In The [ "+yl+wordlist+wi+" ] "+rd+":("+yl+"!"+wi)
                     print(gr+"["+yl+"!"+gr+"]"+yl+" Please Try Another Wordlist. "+gr+":)"+wi)
         sys.exit(1)
    else:
@@ -263,6 +263,6 @@ if __name__=='__main__':
 #####################   END OF TOOL  #########################
 #####################                #########################
 ##############################################################
-#This Tool by Oseid Aldary
+#This Tool by AgentHackers
 #Have a nice day :)
 #GoodBye
