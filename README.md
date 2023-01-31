@@ -41,7 +41,7 @@ python instagram_hack.py
 ```
 #Usage
 ```bash
-python instagram_hack.py usernmae
+python instagram_hack.py -t email -w pass.txt
 ```
 
 
