@@ -117,7 +117,7 @@ class FaceBoom(object):
         if not single_passwd:
             print(gr+"""\
 ============================================"""+wi+"""
-[~] """+yl+"""Brute"""+rd+""" Force ATTACK: """+gr+"""Enabled """+wi+"""[~]"""+gr+"""
+[~] """+yl+"""Brute"""+rd+""" Force ATTACK: """+gr+"""Started """+wi+"""[~]"""+gr+"""
 ============================================\n"""+wi)
         else:print("\n")
 
