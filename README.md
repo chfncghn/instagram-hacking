@@ -43,5 +43,9 @@ python instagram_hack.py
 ```bash
 python instagram_hack.py -t email -w pass.txt
 ```
+```bash
+python instagram_hack.py -t username -w pass.txt -p 144.217.101.245:3129
+```
+for proxy
 
 
